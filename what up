@@ -1,0 +1,3 @@
+ssh -l met default gateway
+sh ip int brief, voor ips interfaces
+sh run, kan je alles zien wat connected is
